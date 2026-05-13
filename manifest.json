@@ -1,0 +1,22 @@
+{
+  "name": "宏达 - 康神门业",
+  "short_name": "宏达",
+  "description": "康神墅门邻水经销商，专业销售高端别墅门、防盗门",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#7A1A1A",
+  "theme_color": "#7A1A1A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%237A1A1A'/%3E%3Ctext x='96' y='125' font-size='100' text-anchor='middle' fill='%23C9A84C' font-family='serif'%3E康%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='64' fill='%237A1A1A'/%3E%3Ctext x='256' y='340' font-size='280' text-anchor='middle' fill='%23C9A84C' font-family='serif'%3E康%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
